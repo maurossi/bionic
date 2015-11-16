@@ -59,7 +59,7 @@ libc_bionic_src_files_x86_64 += \
     arch-x86_64/string/sse2-strlen-slm.S \
     arch-x86_64/string/sse2-strncat-slm.S \
     arch-x86_64/string/sse2-strncpy-slm.S \
-    arch-x86_64/string/sse4-memcmp-slm.S \
+    arch-x86_64/string/ssse3-memcmp-slm.S \
     arch-x86_64/string/ssse3-strcmp-slm.S \
     arch-x86_64/string/ssse3-strncmp-slm.S \
 
